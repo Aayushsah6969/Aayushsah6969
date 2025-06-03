@@ -45,8 +45,8 @@ Here are a few of my projects:
 ## 📫 Let's Connect
 
 - 📧 Email: *youremail@example.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aayush-sah-9076a5299/)
+- 🌐 [Portfolio Website](https://my-portfolio-g63t.onrender.com/)
 
 ---
 
