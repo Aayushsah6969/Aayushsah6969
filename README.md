@@ -78,5 +78,5 @@ Here are a few things I've learned along the way that might help you too:
 
 ---
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushkumarsah&show_icons=true&theme=radical)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushsah6969&show_icons=true&theme=radical)
 
