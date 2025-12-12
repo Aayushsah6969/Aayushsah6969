@@ -48,7 +48,7 @@ Some things I genuinely enjoy: solving real problems, deploying full‑stack app
 
 `Git` • `GitHub` • `Render` • `Vite` • `Postman`
 
-### **VibeCoding Tools I Use**
+### **Tools I Use**
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
