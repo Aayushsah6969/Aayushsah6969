@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Aayush Kumar Sah
 
-### 🎓 B.Tech in Computer Science & Engineering – 3rd Year
+### 🎓 B.Tech in Computer Science & Engineering – Final Year
 ### 📍 Nepal
 
 <a href="https://git.io/typing-svg">
