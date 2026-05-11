@@ -6,7 +6,10 @@
 ### 📍 Nepal
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine Learning +Researcher;Tech+Enthusiast;Building+Scalable+Apps;Low+Level+Deveoplemt;Student+Researcher:" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Researcher;Tech+Enthusiast;Building+Scalable+Apps;Low+Level+Development;Student+Researcher" 
+    alt="Typing SVG" 
+  />
 </a>
 
 <br/>
